@@ -21,6 +21,7 @@ header, footer {
 }
 .headfoot, .first {
 	display: inline-flex;
+	overflow-wrap: break-word;
 }
 .first {
 	width: 45vw;
